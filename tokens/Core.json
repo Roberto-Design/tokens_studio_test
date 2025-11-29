@@ -3,12 +3,34 @@
     "size-2": {
       "value": "2",
       "type": "sizing"
+    },
+    "size-4": {
+      "value": "4",
+      "type": "sizing"
     }
   },
   "spacing": {
     "spacing-2": {
       "value": "2",
       "type": "spacing"
+    },
+    "spacing-4": {
+      "value": "4",
+      "type": "spacing"
+    }
+  },
+  "colors": {
+    "blu": {
+      "100": {
+        "value": "#103181",
+        "type": "color"
+      }
+    },
+    "red": {
+      "100": {
+        "value": "#a90909",
+        "type": "color"
+      }
     }
   }
 }
