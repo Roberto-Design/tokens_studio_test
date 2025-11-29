@@ -1,0 +1,6 @@
+{
+  "background-primary": {
+    "value": "{primary-copy}",
+    "type": "color"
+  }
+}
