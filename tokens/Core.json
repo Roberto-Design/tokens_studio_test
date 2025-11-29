@@ -1,0 +1,14 @@
+{
+  "size": {
+    "size-2": {
+      "value": "2",
+      "type": "sizing"
+    }
+  },
+  "spacing": {
+    "spacing-2": {
+      "value": "2",
+      "type": "spacing"
+    }
+  }
+}

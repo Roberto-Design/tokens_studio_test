@@ -4,9 +4,8 @@
     "name": "Light",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "global": "source",
       "Themes/Light": "enabled",
-      "alias": "source"
+      "Alias": "source"
     },
     "group": "Themes",
     "$figmaCollectionId": "VariableCollectionId:1:13",
@@ -20,9 +19,8 @@
     "name": "Dark",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "global": "source",
       "Themes/Dark": "enabled",
-      "alias": "source"
+      "Alias": "source"
     },
     "group": "Themes",
     "$figmaCollectionId": "VariableCollectionId:1:13",
