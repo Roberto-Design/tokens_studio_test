@@ -2,8 +2,8 @@
   "tokenSetOrder": [
     "core",
     "alias",
-    "light",
-    "dark",
+    "mode/light",
+    "mode/dark",
     "theme"
   ]
 }
